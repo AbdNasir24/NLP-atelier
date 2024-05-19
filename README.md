@@ -1,4 +1,6 @@
 # Synthesis and Summary of the Lab
+Part 1: Language Modeling / Regression
+
 Throughout this lab, I engaged in a comprehensive exercise involving natural language processing (NLP) and regression modeling techniques. Here’s a detailed synthesis of what I learned and the key results obtained:
 
 Key Learnings:
